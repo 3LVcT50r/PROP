@@ -1,0 +1,4 @@
+En aquest directori root es troben els seguents documents:
+> DOCS documentacio del projecte
+> EXE executable i jocs de proves
+> FONTS el codi font junt amb el readme

@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+bin
+*.class
+p.sh
+*.json
