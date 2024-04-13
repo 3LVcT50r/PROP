@@ -1,0 +1,13 @@
+En aquest directori DOCS trobara la seguent documentacio:
+
+>DiagramaCasosDUs.png : Una imatge PDF amb el diagrama de casos d'us del sistema.
+
+>DiagramaCasosDUs : Un document de text amb la descripcio breu dels casos d'us, amb l’actor i el comportament tipic. Tambe s’explica els errors considerats i els cursos alternatius.
+
+>DiagramaDeClasses.png : Una imatge PDF del diagrama de classes de domini en versio disseny. També s’inclou el ControladorCapaDomini.
+
+>DescripcioDiagramaDeClasses : Un document de text amb la descripcio de les diferents classes, atributs i operacions preincipals del diagrama de classes.
+
+>ED+Algorismes : Un document de text amb les descripcions dels algorismes i estructures de dades principals usats en el programa en aquesta primera entrega.
+
+>RelacionsMembres : Un document de text amb la explicacio de les realcions membres/classes.

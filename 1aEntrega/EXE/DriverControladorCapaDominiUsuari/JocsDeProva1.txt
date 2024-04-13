@@ -1,0 +1,167 @@
+JOC DE PROVES DRIVER ControladorDominiOpcionsUsuari
+Objectiu joc de proves:
+- Veure les diferents opcions del ControladorDominiOpcionsUsuari
+- Afegir diferents usuaris
+- Eliminar diferents usuaris
+- Veure les diferents configuracions dels diversos usuaris
+
+Input:
+
+2
+Carles
+1234
+Dreta
+5
+1
+Carles
+1234
+7
+8
+4
+7
+5
+2
+Arnal
+123
+Dreta
+5
+2
+Victor
+12
+Dreta
+2
+Victor
+qwerty
+Esquerra
+5
+1
+admin
+admin
+9
+10
+Carles
+11
+Arnal
+9
+5
+1
+Carles
+1234
+8
+99
+
+OUTPUT:
+Estas provant el driver de les funcionalitats relacionades amb els Usuaris de la classe ControladorCapaDomini
+
+Abans de provar la classe anem a crear un nou ControladorCapaDomini
+S'ha creat una nova instancia de ControladorCapaDomini
+Al ser funcionalitats relacionades amb un usuari, per poder realitzar correctament la resta de funcionalitats, primer fes un login o registra un nou usuari
+Si fa login amb username 'admin' i password 'admin', fara login com a administrador del sistema
+Selecciona una de les funcionalitats:
+0. Tornar a escriure les instruccions
+1. Test Login
+2. Test Registrar Usuari
+3. Test Canviar Password
+4. Test Canviar Ma Bona
+5. Test Logout
+6. Test Elimina Usuari
+7. Test Obte Ma Bona
+8. Test Es Admin
+99. Finalitzar driver
+
+Les seguents funcionalitats nomes es poden executar si el usuari que ha fet login es administrador del sistema
+9. Test Get Tots Els Usuaris
+10. Test Donar Permisos Admin
+11. Test Eliminar usuari Del Sistema
+SI NO ES POSA UN NUMERO, EL DRIVER PETA
+Introdueixi el username:
+Introdueixi el password:
+Introdueixi la seva ma bona. Format Esquerra/Dreta
+S'ha registrat correctament l'usuari
+=============================================================
+5
+S'ha fet logout correctament
+=============================================================
+Introdueixi el username:
+Introdueixi el password:
+S'ha fet login correctament!!
+=============================================================
+La teva ma bona es Dreta
+=============================================================
+L'usuari no es admin
+=============================================================
+S'ha canviat la ma bona del usuari
+=============================================================
+La teva ma bona es Esquerra
+=============================================================
+S'ha fet logout correctament
+=============================================================
+Introdueixi el username:
+Introdueixi el password:
+Introdueixi la seva ma bona. Format Esquerra/Dreta
+S'ha registrat correctament l'usuari
+=============================================================
+ntrodueixi el username:
+Introdueixi el password:
+Introdueixi la seva ma bona. Format Esquerra/Dreta
+Ha ocorregut un error: El password introduit no ha passat el filtre de seguretat. Sisplau, seleccioni un altre
+=============================================================
+Introdueixi el username:
+Introdueixi el password:
+Introdueixi la seva ma bona. Format Esquerra/Dreta
+S'ha registrat correctament l'usuari
+=============================================================
+Introdueixi el username:
+Introdueixi el password:
+S'ha fet login correctament!!
+=============================================================
+A continuacio es mostren tots els usuaris registrats al sistema, identificats per un id seguit del seu username
+
+Username: Victor
+
+Username: Arnal
+
+Username: Carles
+
+Username: admin
+=============================================================
+A continuacio es mostren tots els usernames dels usuaris registrats al sistema
+
+Username: Victor
+
+Username: Arnal
+
+Username: Carles
+
+Username: admin
+Introdueixi el username del usuari al que vol donar privilegis d'administrador:
+S'ha donat privilegis d'administrador al usuari amb username Carles
+=============================================================
+A continuacio es mostren tots els usernames dels usuaris registrats al sistema
+
+Username: Victor
+
+Username: Arnal
+
+Username: Carles
+
+Username: admin
+Introdueixi el username del usuari que vol borrar:
+s'ha eliminat l'usuari identificat amb id Arnal
+=============================================================
+A continuacio es mostren tots els usuaris registrats al sistema, identificats per un id seguit del seu username
+
+Username: Victor
+
+Username: Carles
+
+Username: admin
+=============================================================
+S'ha fet logout correctament
+=============================================================
+Introdueixi el username:
+Introdueixi el password:
+S'ha fet login correctament!!
+=============================================================
+L'usuari es admin
+=============================================================

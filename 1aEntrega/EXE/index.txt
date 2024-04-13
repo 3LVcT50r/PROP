@@ -1,0 +1,6 @@
+En aquest directori EXE trobem els seguents documents i directoris:
+
+>CLASS DIrectori on trobem els executables .class 
+>DriverControladorCapaDomini executable del driver controlador domini amb els jocs de proves
+>DriverControladorCapaDominiOpcionsUsuari executable del driver controlador domini usuari amb els jocs de proves
+>TEXTS_JocsDeProva es una carpeta per a pujar els texts de prova degut a que si els fiquem mes endins dels

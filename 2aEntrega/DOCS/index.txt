@@ -1,0 +1,6 @@
+En aquest directori DOCS es troben els seguents documents:
+> Descripcio_Classes_Atributs_i_Metodes.pdf
+> Estructures_de_dades_i_algorismes
+> Diagrama_UML_Domini.svg
+> Diagrama_UML_Persistencia.svg
+> Diagrama_UML_Presentacio.svg

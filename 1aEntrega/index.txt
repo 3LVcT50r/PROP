@@ -1,0 +1,9 @@
+En aquest directori Arrel trobem:
+
+>DOCS: conte els documents que es demanen a la normativa del projecte.
+
+>EXE:  conte tots els executables per executar els drivers. També s’inclou els JUnit i els jocs de proves.
+
+>FONTS: conte totes les classes .java del programa, juntament amb els drivers i stubs i el JUnit.
+
+>DescripcioEquip: conte els noms dels integrants del grup i els correus

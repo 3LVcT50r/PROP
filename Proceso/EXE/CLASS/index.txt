@@ -1,2 +1,0 @@
-En aquest directori esta els diferents jocs de prova per aquest driver.
-Tambe hi ha el script per executar el driver.
