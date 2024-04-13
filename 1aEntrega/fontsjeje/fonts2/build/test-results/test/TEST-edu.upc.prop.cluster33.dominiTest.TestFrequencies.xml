@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.upc.prop.cluster33.dominiTest.TestFrequencies" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-21T15:38:53" hostname="Pa1buntu-lapt" time="0.063">
+  <properties/>
+  <testcase name="testGeneraArmeni" classname="edu.upc.prop.cluster33.dominiTest.TestFrequencies" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

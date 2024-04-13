@@ -1,0 +1,16 @@
+En aquest directori es troba el codi font de les diferents classes i funcionalitats. També inclou el makefile per poder compilar. Directoris a destacar de FONTS:
+
+>Domini: Inclou tant el controlador de capa de domini com les classes del domini
+
+>Drivers: Codi dels drivers que es poden usar per provar les funcionalitats del domini
+
+>Excepcions: Els codis de totes les excepcions controlades pel programa
+
+>Presentacio: Aqui es troben la vista de la terminal i el controlador de presentacio. Els hi falten algun actualitzacions respecte al domini ja que a la primera entrega no son necessaries
+
+>Stubs: Stubs usats com a substitucio de la capa de persistencia pel programa
+
+>Utils: Codis de les classes utils usades en el domini
+
+>Tests: Varis tests realitzats per testejar les classes de forma unitaria i poder comprovar el seu correcte funcionament
+
